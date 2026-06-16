@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Faye Wong Singing",
+        "date": "23rd Nov 2026",
+        "time": "4:00pm",
+        "imageUrl": "https://picsum.photos/id/10/200/200"
+    },
+    {
+        "id": 2,
+        "title": "Everything 50% off",
+        "date": "24th Nov 2026",
+        "time": "6:00pm",
+        "imageUrl": "https://picsum.photos/id/11/200/200"
+    },
+    {
+        "id": 3,
+        "title": "Lucky Draw",
+        "date": "25th Nov 2026",
+        "time": "7:30pm",
+        "imageUrl": "https://picsum.photos/id/12/200/200"
+    }
+]
